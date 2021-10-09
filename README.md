@@ -1,3 +1,3 @@
 # OLD GOOGLE
 
-![Octocat] (img/OldGoogle.png)
+![Octocat] Patika-Homework-2/img/OldGoogle.png
